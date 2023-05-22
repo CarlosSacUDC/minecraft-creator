@@ -82,7 +82,7 @@ This command returns a list of all of the objectives in the world.
 To remove an objective from the game use:
 
 ```
-/scoreboard objective remove <objective: string>
+/scoreboard objectives remove <objective: string>
 ```
 
 ### setdisplay 
